@@ -1,0 +1,13 @@
+com\how2java\dao\ISolderDao.class
+com\how2java\enity\arms.class
+com\how2java\exception\SysException.class
+com\how2java\enity\StatusJudge.class
+com\how2java\controller\CocController.class
+com\how2java\exception\HandlerSysException.class
+com\how2java\dao\IUserDao.class
+com\how2java\controller\UserRegisterController.class
+com\how2java\enity\Soldier.class
+com\how2java\service\impl\UserServiceImpl.class
+com\how2java\dao\IArmsDao.class
+com\how2java\service\IUserService.class
+com\how2java\enity\User.class
